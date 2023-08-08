@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, 👋 I'm David.
 
+I am a Software Engineer with a passion for full stack development, equipped with a background in psychology and management that enables me to adeptly address both technical and non-technical challenges. My goal is to create complex yet user-friendly applications for people of all computer proficiencies, ensuring quality through a commitment to the core principles of consistency, reliability, and functionality. With an emphasis on teamwork and collaboration, I take pride in working with others to deliver innovative solutions.
 <!--
 **park-david/park-david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
